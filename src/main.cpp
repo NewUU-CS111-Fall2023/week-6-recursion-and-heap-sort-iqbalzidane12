@@ -10,6 +10,7 @@
 #include "sumofdigits.h"
 #include "task_4.h"
 #include "task_5.h"
+#include "task_6.h"
 
 int main() {
     std::cout << "Task 1" << std::endl;
@@ -22,5 +23,8 @@ int main() {
     isPrime ()
     std::cout << "Task 5" << std::endl;
     isPalindrome ()
+    std::cout <<"Task 6" << std::endl;
+    secondLargest()
+    
     return 0;
 }
