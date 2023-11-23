@@ -29,3 +29,4 @@ int isPowerOfTwo() {
     }
     return 0;
 }
+//Muxtorov A 20221500484

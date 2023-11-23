@@ -30,3 +30,4 @@ int task_5() {
     }
     return 0;
 }
+//Muxtorov A 20221500484

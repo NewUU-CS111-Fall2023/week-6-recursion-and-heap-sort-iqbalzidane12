@@ -11,6 +11,13 @@
 #include "task_4.h"
 #include "task_5.h"
 #include "task_6.h"
+#include "task_7.h"
+#include "task_8.h"
+#include "task_9.h"
+#include  "task_10.h"
+
+
+
 
 int main() {
     std::cout << "Task 1" << std::endl;
@@ -25,6 +32,13 @@ int main() {
     isPalindrome ()
     std::cout <<"Task 6" << std::endl;
     secondLargest()
-    
+    std::cout << "Task 7" << std::endl;
+    reverse()
+    std::cout << "Task 8" << std::endl;
+    karatsubaMultiply()
+    std::cout << "Task 9" << std::endl;
+    Heap()
+    std::cout << "Task 10" << std::endl;
+    sortVowels()
     return 0;
 }

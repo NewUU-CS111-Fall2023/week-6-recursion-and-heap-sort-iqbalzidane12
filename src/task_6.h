@@ -30,3 +30,4 @@ int task_6() {
     cout << "The second largest number in the sequence is " << max2 << endl;
     return 0;
 }
+//Muxtorov A 20221500484

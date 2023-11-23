@@ -21,3 +21,4 @@ int sumofdigits() {
     cout << "The sum of the digits of " << N << " is " << sumOfDigits(N) << endl;
     return 0;
 }
+//Muxtorov A 20221500484
