@@ -8,6 +8,7 @@
 #include "task_1.h"
 #include "isPowerOfTwo.h"
 #include "sumofdigits.h"
+#include "task_4.h"
 
 int main() {
     std::cout << "Task 1" << std::endl;
@@ -17,7 +18,7 @@ int main() {
     std::cout << "Task 3" << std::endl;
     sumofdigits()
     std::cout << "Task 4" << std::endl;
-    // call for task 4
+    isPrime ()
     std::cout << "Task 5" << std::endl;
     // call for task 5
     return 0;
